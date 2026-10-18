@@ -13,7 +13,7 @@ PALETTE = {
     # hair
     "H": "#6a4a2f", "h": "#4b3320", "L": "#8e6a46",
     # face
-    "W": "#f4f4f4", "I": "#3c8fa8", "B": "#4b3320", "M": "#a8655e",
+    "W": "#f4f4f4", "I": "#3c8fa8", "B": "#4b3320", "M": "#8e5650", "m": "#c4907a",
     # scaly suit
     "K": "#0a302d", "D": "#0e4540", "T": "#16625a", "Q": "#24806f", "q": "#3aa08a",
     # gold belt and emblem
@@ -84,13 +84,13 @@ hat = faces(32, 0, 8, 8, 8)
 
 grid(head["front"], [
     "HHLLHHLH",
-    "HSkkkkSH",
+    "HSSSSHLH",
     "SBBSSBBS",
     "SWISSIWS",
-    "SSSssSSS",
+    "SSSSsSSS",
+    "SSmSSmSS",
+    "SSSMMSSS",
     "sSSSSSSs",
-    "sSSMMSSs",
-    "ssSSSSss",
 ])
 right_side = [  # x0 = back of head, x7 = face side
     "HHLHHHHH",
