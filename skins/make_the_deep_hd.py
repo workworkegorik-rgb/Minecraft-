@@ -149,10 +149,10 @@ grid(head["front"], [
     "1dccccbbcdccccd1",
     "dcccccbbcdcccccd",
     "dcccccdccdcccccd",
-    "dccccmccccmccccd",
-    "dcccccmoomcccccd",
-    "ddcccccbbcccccdd",
-    "eddcccbbbbcccdde",
+    "dccccccccccccccd",
+    "dccccmoooomccccd",
+    "ddccccbbbbccccdd",
+    "eddccccccccccdde",
 ])
 right_side = [  # x0 = back of head, x15 = face side; ear in the middle
     "2333443333443332",

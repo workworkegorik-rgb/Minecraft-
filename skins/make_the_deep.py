@@ -88,8 +88,8 @@ grid(head["front"], [
     "SBBSSBBS",
     "SWISSIWS",
     "SSSSsSSS",
-    "SSmSSmSS",
-    "SSSMMSSS",
+    "SSSSSSSS",
+    "SSMMMMSS",
     "sSSSSSSs",
 ])
 right_side = [  # x0 = back of head, x7 = face side
