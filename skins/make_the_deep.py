@@ -84,8 +84,8 @@ hat = faces(32, 0, 8, 8, 8)
 
 grid(head["front"], [
     "HHLLHHLH",
-    "HSSSSHLH",
-    "SBBSSBBS",
+    "HBBSSBBH",
+    "SSSBBSSS",
     "SWISSIWS",
     "SSSSsSSS",
     "SSSSSSSS",
