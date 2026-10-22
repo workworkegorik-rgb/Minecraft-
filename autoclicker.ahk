@@ -19,7 +19,6 @@ DllCall("winmm\timeBeginPeriod", "UInt", 1)
 
     ToolTip enabled ? "Автокликер ON" : "Автокликер OFF"
     SetTimer () => ToolTip(), -1000
-    SoundBeep enabled ? 1000 : 500, 80
 
     ; Игнорируем автоповтор при удержании клавиши
     KeyWait "sc013"
